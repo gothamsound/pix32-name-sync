@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>X32 IP</key>
+	<string>169.254.174.20</string>
+	<key>PIX IP</key>
+	<string>169.254.2.99</string>
+	<key>Timeout</key>
+	<string>4</string>
+	<key>Track Count</key>
+	<string>32</string>
+	<key>Directory</key>
+	<string>~/Desktop/pix32</string>
+</dict>
+</plist>
